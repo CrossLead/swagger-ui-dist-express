@@ -1,0 +1,9 @@
+{
+  "name": "swagger-ui-dist-express",
+  "version": "0.0.1",
+  "description": "express wrapper for swagger-ui-dist",
+  "main": "dist/index.js",
+  "repository": "git@github.com:CrossLead/swagger-ui-dist-express.git",
+  "author": "Ben Southgate <bsouthga@gmail.com>",
+  "license": "Apache-2.0"
+}
